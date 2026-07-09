@@ -15,3 +15,7 @@
 
 5. **Làm project quan trọng hơn xem thêm video.** Nếu phải chọn giữa xem thêm
    1 video hay ngồi code, luôn chọn ngồi code.
+
+6. **Claude Code chỉ được dùng để REVIEW, không dùng để code hộ.** Khi cần
+   review, yêu cầu Claude Code chỉ ra vấn đề và hỏi ngược — không xin code mẫu,
+   không xin Claude sửa trực tiếp.
