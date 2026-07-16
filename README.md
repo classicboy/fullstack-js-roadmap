@@ -13,6 +13,23 @@ Roadmap học full-stack JavaScript (Node/NestJS + Next.js) chuẩn bị apply i
 4. Kẹt ở đâu: tự mò tối đa 30 phút, sau đó hỏi kèm đủ 3 ý — đã thử gì,
    expected gì, actual ra gì.
 
+## Code làm ra để ở đâu
+
+Repo này **không chứa code bài làm** — chỉ dùng để xem lịch và comment nộp
+bằng chứng vào issues.
+
+- **Bài tập nhỏ** (đoạn code ngắn, câu trả lời, số liệu đo): comment thẳng
+  vào issue con tương ứng.
+- **Project**: làm trên repo riêng thuộc tài khoản GitHub của người học —
+  Phase 0 dùng repo Pokemon game có sẵn; Phase 1–4 mỗi phase tạo 1 repo mới
+  (todo-api, blog-api, blog-frontend, product-catalog). Portfolio khi apply
+  intern chính là các repo này.
+- **Quy trình git**: Phase 0 commit thẳng lên main, tập viết commit message
+  rõ nghĩa. Từ Phase 1 trở đi, mỗi feature làm trên 1 branch riêng
+  (vd `feat/jwt-auth`) và mở Pull Request — mentor review trên PR.
+- **Nộp bài**: khi đạt điều kiện của issue con, comment vào issue đó kèm
+  link repo / commit / PR cụ thể — mentor review rồi mới tick.
+
 ## Các phase
 
 | Phase | Nội dung | Issue |

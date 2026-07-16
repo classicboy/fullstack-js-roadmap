@@ -19,3 +19,9 @@
 6. **Claude Code chỉ được dùng để REVIEW, không dùng để code hộ.** Khi cần
    review, yêu cầu Claude Code chỉ ra vấn đề và hỏi ngược — không xin code mẫu,
    không xin Claude sửa trực tiếp.
+
+7. **Code để trên repo riêng, nộp bằng link.** Repo roadmap này không chứa
+   code bài làm. Project làm trên repo thuộc tài khoản GitHub của người học
+   (xem README phần "Code làm ra để ở đâu"). Từ Phase 1 trở đi, mỗi feature
+   đi qua branch riêng + Pull Request, không commit thẳng lên main. Nộp bài
+   = comment vào issue con kèm link repo/commit/PR.
