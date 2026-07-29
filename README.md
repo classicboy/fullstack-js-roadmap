@@ -24,9 +24,11 @@ bằng chứng vào issues.
   Phase 0 dùng repo Pokemon game có sẵn; Phase 1–4 mỗi phase tạo 1 repo mới
   (todo-api, blog-api, blog-frontend, product-catalog). Portfolio khi apply
   intern chính là các repo này.
-- **Quy trình git**: Phase 0 commit thẳng lên main, tập viết commit message
-  rõ nghĩa. Từ Phase 1 trở đi, mỗi feature làm trên 1 branch riêng
-  (vd `feat/jwt-auth`) và mở Pull Request — mentor review trên PR.
+- **Quy trình git**: Phase 0 phần bài tập nhỏ (Ngày 1–10) commit thẳng lên
+  main, tập viết commit message rõ nghĩa. **Từ dự án refactor game (Ngày 11)
+  trở đi**, mỗi đơn vị công việc làm trên 1 branch riêng
+  (vd `refactor/1-esm`, `feat/jwt-auth`) và mở Pull Request — mentor review
+  trên PR, được duyệt rồi mới merge.
 - **Nộp bài**: khi đạt điều kiện của issue con, comment vào issue đó kèm
   link repo / commit / PR cụ thể — mentor review rồi mới tick.
 
@@ -34,7 +36,7 @@ bằng chứng vào issues.
 
 | Phase | Nội dung | Issue |
 |---|---|---|
-| Phase 0 | Nền JS vững chắc (2 tuần) | [#1](../../issues/1) |
+| Phase 0 | Nền JS vững chắc | [#1](../../issues/1) |
 | Phase 1 | Node.js & Express — Todo API | [#2](../../issues/2) |
 | Phase 2 | Database + NestJS — Blog API có phân quyền | [#3](../../issues/3) |
 | Phase 3 | React + Next.js — Blog Frontend | [#4](../../issues/4) |

@@ -22,6 +22,10 @@
 
 7. **Code để trên repo riêng, nộp bằng link.** Repo roadmap này không chứa
    code bài làm. Project làm trên repo thuộc tài khoản GitHub của người học
-   (xem README phần "Code làm ra để ở đâu"). Từ Phase 1 trở đi, mỗi feature
-   đi qua branch riêng + Pull Request, không commit thẳng lên main. Nộp bài
-   = comment vào issue con kèm link repo/commit/PR.
+   (xem README phần "Code làm ra để ở đâu"). Nộp bài = comment vào issue con
+   kèm link repo/commit/PR.
+
+8. **Branch riêng + Pull Request, không commit thẳng lên main.** Áp dụng từ
+   dự án refactor game (Ngày 11 của Phase 0) trở đi. Mỗi đơn vị công việc đi
+   qua 1 branch + 1 PR; đọc lại diff của chính mình trước khi mở PR; đợi
+   review rồi mới merge, không tự merge ngay.
