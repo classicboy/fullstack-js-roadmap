@@ -7,9 +7,10 @@ Roadmap học full-stack JavaScript (Node/NestJS + Next.js) chuẩn bị apply i
 1. Đọc [RULES.md](./RULES.md) — quy tắc bắt buộc trong suốt quá trình học.
 2. Mở issue phase đang học (bắt đầu từ Phase 0) — trong đó có lịch chi tiết
    từng ngày, nguồn học và acceptance criteria.
-3. Mỗi issue con là một điều kiện cần đạt. Khi tự thấy đã đạt, **comment vào
-   issue con kèm bằng chứng** (code, output chạy thật, giải thích bằng lời) —
-   mentor review rồi mới tick. Không tick nếu chỉ "xem hiểu".
+3. Mỗi issue con là một bước công việc, làm tuần tự theo bảng lịch trong issue
+   phase. Khi tự thấy đã xong một bước, **comment vào issue con kèm bằng chứng**
+   (link PR, output chạy thật, giải thích bằng lời) — mentor review rồi mới tick.
+   Không tự tick, và không tick nếu chỉ "xem hiểu".
 4. Kẹt ở đâu: tự mò tối đa 30 phút, sau đó hỏi kèm đủ 3 ý — đã thử gì,
    expected gì, actual ra gì.
 
@@ -24,6 +25,8 @@ bằng chứng vào issues.
   Phase 0 dùng repo Pokemon game có sẵn; Phase 1–4 mỗi phase tạo 1 repo mới
   (todo-api, blog-api, blog-frontend, product-catalog). Portfolio khi apply
   intern chính là các repo này.
+- **PR template**: repo project mới thì copy `templates/pull_request_template.md`
+  của repo này vào `.github/pull_request_template.md` ngay từ bước đầu.
 - **Quy trình git**: Phase 0 phần bài tập nhỏ (Ngày 1–10) commit thẳng lên
   main, tập viết commit message rõ nghĩa. **Từ dự án refactor game (Ngày 11)
   trở đi**, mỗi đơn vị công việc làm trên 1 branch riêng

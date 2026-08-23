@@ -10,6 +10,10 @@
 3. **Không tick issue nếu chỉ "xem hiểu"**: Chỉ tick khi đạt Acceptance Criteria
    trong issue, và giải thích được bằng lời tại sao code viết như vậy.
 
+   **Ô tick trong ticket do mentor tick sau khi review**, không tự tick. Việc của
+   người học là báo bằng comment kèm bằng chứng. Ô tick trong Pull Request thì
+   ngược lại — đó là phần tự kiểm, tick trước khi bấm xin review.
+
 4. **Commit thật, không phải commit để có**: Message rõ nghĩa, mô tả đúng thay
    đổi (vd: "add jwt auth guard to posts controller").
 
